@@ -1,0 +1,33 @@
+[
+    {
+        "precio": 610000000,
+        "id": 1,
+        "title": "Tesla Roadster",
+        "thumbnailUrl":"https://www.tesla.com/sites/default/files/images/roadster/roadster-social.jpg"
+    },
+    {
+        "precio":420000000,
+        "id":2,
+        "title":"Tesla model S",
+        "thumbnailUrl":"https://forococheselectricos.com/wp-content/uploads/2019/06/Tesla-Model-S-2.jpg"
+    },
+    {
+        "precio":407000000,
+        "id":3,
+        "title":"Tesla model 3",
+        "thumbnailUrl":"https://www.autobild.es/sites/autobild.es/public/dc/fotos/Tesla-Model_3_2018_C01.jpg"
+    },
+    {
+        "precio":300000000,
+        "id": 4,
+        "title": "Tesla model X",
+        "thumbnailUrl":"https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/TPZB6BW3H5CZHJHXT7BYVVH4PM.jpg"
+    },
+    {
+        "precio": 500000000,
+        "id": 5,
+        "title": "Tesla model Y",
+        "thumbnailUrl":"https://st.motortrend.com/uploads/sites/5/2019/03/Tesla-Model-Y-front-three-quarters.jpg"
+    }
+    
+]
