@@ -28,6 +28,12 @@
         "id": 5,
         "title": "Tesla model Y",
         "thumbnailUrl":"https://st.motortrend.com/uploads/sites/5/2019/03/Tesla-Model-Y-front-three-quarters.jpg"
+    },
+    {
+        "precio": 224647348,
+        "id": 6,
+        "title": "Tesla Cybertruk",
+        "thumbnailUrl":"https://i0.wp.com/hipertextual.com/wp-content/uploads/2019/11/hipertextual-elon-musk-presenta-tesla-cybertruck-pickup-electrica-con-hasta-805-km-autonomia-diseno-ciencia-ficcion-2019945611.jpg?fit=2048%2C1152"
     }
     
 ]
